@@ -4,3 +4,7 @@ Write a Python program to identify all failed login attempts in a log file and e
 Write a Python program to extract and display metadata (e.g creation time, last modification time) from a file.
 Write a Python program to compare the sizes of multiple files and identify the largest and smallest ones.
 Write a Python program to filter out all lines in a file that start with a specific prefix.
+
+
+# file handling
+#json parsing
