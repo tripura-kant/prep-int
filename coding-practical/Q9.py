@@ -5,7 +5,7 @@ Log:
  Task: Extract the referrer field and show the top 10 sources.
 '''
 
-log_file = "/Users/tripurakant/Documents/code/My_git/prep-int/coding-practical/access.log"
+log_file = "/Users/tripurakant/Documents/code/My_git/prep-int/coding-practical/ref.log"
 
 ref_count = {}
 
