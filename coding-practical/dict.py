@@ -4,11 +4,11 @@ a = {'name': 'Thor Odinson',
     'strongest': True}
 
 
-for i in a:
-    print(f"{i} --> {a[i]}")
-
 # for i in a:
-#     print(i,":",a[i])
+#     print(f"{i} --> {a[i]}")
+
+# # for i in a:
+# #     print(i,":",a[i])
 
 
 '''
@@ -37,3 +37,9 @@ a=city_wise_data.get("Mumbai").get("avg_temp_c")
 print(a)
 
 '''
+
+a.update({"eng": 99})
+print(a)
+
+a["sst"] = 50
+print(a)
